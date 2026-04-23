@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Minh
 
-<!--
-**LeeMin1101/LeeMin1101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Student  
+🚀 Backend Developer Focused  
+🔥 Building MERN Stack & Mobile Applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Frontend
+- ReactJS
+- HTML
+- CSS
+- JavaScript
+
+### Backend
+- NodeJS
+- ExpressJS
+- MongoDB
+- JWT Authentication
+
+### Mobile
+- Android Java
+
+### Tools
+- Git
+- GitHub
+- Postman
+- Render
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeeMin1101&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeMin1101&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Current Goals
+
+- Become a professional Backend Developer
+- Build real-world projects
+- Looking for internship opportunities
+
+---
+
+## 📫 Contact
+
+- Gmail: yourmail@gmail.com
