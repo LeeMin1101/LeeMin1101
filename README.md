@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Backend Developer • Software Engineering Student • MERN Stack Developer
+###  Backend Developer • Software Engineering Student • MERN Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Backend+Developer;MERN+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" />
 
@@ -152,6 +152,5 @@ goal:
 
 <div align="center">
 
-### ⚡ "Code. Learn. Build. Repeat." ⚡
 
 </div>
